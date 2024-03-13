@@ -1,0 +1,22 @@
+{
+    "questions":[
+        {
+            "questions":"which is most popular javascript framework?",
+            "options":["Angular", "React","Vue"],
+            "correctOption":1,
+            "points":10
+        },
+        {
+            "questions":"which company invented React?",
+            "options":["Google", "Apple","facebook"],
+            "correctOption":2,
+            "points":10
+        },
+        {
+            "questions":"tes",
+            "options":["a", "b","c"],
+            "correctOption":2,
+            "points":10
+        }
+    ]
+}
